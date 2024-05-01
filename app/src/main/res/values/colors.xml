@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="biru1">#2E7FEB</color>
+    <color name="hitam">#FF000000</color>
+    <color name="putih">#FFFFFFFF</color>
+    <color name="kuning">#F7C23E</color>
+    <color name="biru2">#20457A</color>
+    <color name="krem">#F6E2D9</color>
+    <color name="primary">#A17AEE</color>
+    <color name="biru3">#5193FF</color>
+</resources>
